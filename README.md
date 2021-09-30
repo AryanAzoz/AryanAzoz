@@ -7,12 +7,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AryanAzoz&label=Profile%20views&color=0e75b6&style=flat" alt="aryanazoz" /> </p>
 
-<p align="center"> - 🔭 I’m currently working on Crisis-Bot And Some Youtube Tutorials On `dbd.js`</p>
+<p align="center"> - 🔭 I’m currently working on Crisis-Bot And Some Youtube Tutorials On dbd.js</p>
 
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://discordapp.com/users/717741628777037824">
-   <img alt="Discord" src="https://img.shields.io/badge/swaps%236666-Discord-%231c03fc'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/' NΞ 丶 AryanAzoz%231617-Discord-%231c03fc'"></a>  
 </p>

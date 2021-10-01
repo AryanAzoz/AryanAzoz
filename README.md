@@ -14,5 +14,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://discordapp.com/users/717741628777037824">
-   <img alt="Discord" src="https://img.shields.io/badge/' NΞ 丶 AryanAzoz%231617-Discord-%231c03fc'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/AryanAzoz%231617-Discord-%231c03fc'"></a>  
 </p>

@@ -3,7 +3,7 @@
 <p align="center"> 👋 Hi! I am a New developer.</p>
 
 
-<div align="left"><img alt="AryanAzoz"src="https://discord.c99.nl/widget/theme-2/717741628777037824.png"></div>
+<p align="center"> <div align="left"><img alt="AryanAzoz"src="https://discord.c99.nl/widget/theme-2/717741628777037824.png"></div>
 
 
 
